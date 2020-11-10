@@ -1,0 +1,10 @@
+*.h5
+*.model
+*.pickle
+*.csv
+*.avi
+*.mp4
+*.pyc
+*.dat
+__pycache__
+.~*
